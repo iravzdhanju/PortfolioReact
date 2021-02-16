@@ -1,4 +1,4 @@
-## This is my Updated Portfolio made with ReactJs and Redux using Service Worker
+## This Is my Updated Portfolio made with ReactJs and Redux using Service Worker
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
